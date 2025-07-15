@@ -1,2 +1,2 @@
 # A Part of Speech Tagger 
-This is my final project for CS4100: Artificial Intelligence :)
+A Part of Speech Tagger that employs Hidden Markov Models. The supervised model is trained with NLTK's HMM library and tags parts of speech using the Viterbi Algorithm. The unsupervised model is trained using the Expectation-Maximization algorithm and also uses Viterbi to tag parts of speech. The EM algorithm has low performance, and I am working to improve the project. Please see the PDF of the paper detailing the algorithms used and possible iterations of the project.
